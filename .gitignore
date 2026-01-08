@@ -1,0 +1,17 @@
+venv/
+.env
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.geojson
+*.zip
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+logs/
+models/
+runs/
+.DS_Store
+Thumb.db
